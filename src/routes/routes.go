@@ -6,8 +6,8 @@ import (
 
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
-	"github.com/kamillyceppas/go-rest-api/controllers"
-	"github.com/kamillyceppas/go-rest-api/middleware"
+	"github.com/kamillyceppas/go-rest-api/src/controllers"
+	"github.com/kamillyceppas/go-rest-api/src/middleware"
 )
 
 // FUNÇÃO PARA MANIPULAR AS REQUISICOES DE API

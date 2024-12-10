@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/kamillyceppas/go-rest-api/database"
-	"github.com/kamillyceppas/go-rest-api/models"
+	"github.com/kamillyceppas/go-rest-api/src/database"
+	"github.com/kamillyceppas/go-rest-api/src/models"
 )
 
 // FUNÇÃO PARA EXIBIR A PAGINA HOME
