@@ -18,10 +18,10 @@ Aqui estão algumas das personalidades homenageadas pelas ruas de Niterói:
 
 Abaixo, alguns prints da aplicação em funcionamento:
 
-![Print da Tela Principal](assets/print1.jpg)  
+![Print da Tela Principal](assets/print1.png)  
 *Exemplo da tela principal da API.*
 
-![Print do Postman](assets/print2.jpg)  
+![Print do Postman](assets/print2.png)  
 *Exemplo da listagem de personalidades.*
 
 ## Como rodar a API no Postman 🖥️
