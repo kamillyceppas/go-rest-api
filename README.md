@@ -22,7 +22,7 @@ Abaixo, alguns prints da aplicação em funcionamento:
 *Exemplo da tela principal da API.*
 
 ![Print do Postman](assets/print2.png)  
-*Exemplo da listagem de personalidades.*
+*Exemplo da listagem da personalidades/1*
 
 ## Como rodar a API no Postman 🖥️
 
